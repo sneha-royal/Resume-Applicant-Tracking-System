@@ -26,16 +26,16 @@ pip install python-dotenv
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/image-scraping-project.git
+git https://github.com/sneha-royal/Resume-Applicant-Tracking-System.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd ATS
+cd Resume-Applicant-Tracking-System
 ```
 
-3. Run the Flask application:
+3. Run the application:
 
 ```bash
 python app.py
@@ -43,9 +43,9 @@ python app.py
 
 4. Open your web browser and go to [http://localhost:8000](http://localhost:8000).
 
-5. Enter a search query and click "Scrape Images."
+5. Enter a Job description,Upload Resume and click "Submit."
 
-6. Check the specified folder for the scraped images.
+6. Check the Jd match,missing skills and profile summary.
 
 
 ## Acknowledgements
